@@ -1,16 +1,33 @@
-### Hi there 👋
+## Hi there, I'm Mai Nguyen👋
 
-<!--
-**mai1999nguyen/mai1999nguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on R studio
+- 🌱 I’m currently learning everything 🤣
+- 🥅 Goals: Contribute more to Open Source projects and find my littel shelter :city_sunrise:
+- ⚡ Fun fact: I love to watch movies and play with cats 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with me:
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br>
+
+
+### :sparkles: One line that describes me best?
+
+I am a Data Analyst, trying to dive deep in the ocean of data world.
+
+
+### 🤔 What do I do? 
+
+ - :green_book: I am in junior year, with a great interest in R.
+ - :green_book: Building projects in R studio. 
+ - :green_book: Looking for interesting opportunities in Data Analyst.
+
+### 🌱 What I’m currently learning?
+
+Recently, I am much involved in the "API","mySQLdb","R".
+
+
+[instagram]: https://www.instagram.com/hm.3112/
+[linkedin]: https://www.linkedin.com/in/nguyen-mai-999799187/
