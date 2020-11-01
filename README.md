@@ -28,6 +28,12 @@ I am a Data Analyst, trying to dive deep in the ocean of data world.
 
 Recently, I am much involved in the "API","mySQLdb","R".
 
+### 📶 Stats:
+<!-- ![My github stats](https://github-readme-stats.vercel.app/api?username=mai1999nguyen&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true) -->
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=mai1999nguyen&show_icons=true&theme=dracula&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mai1999nguyen&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [instagram]: https://www.instagram.com/hm.3112/
 [linkedin]: https://www.linkedin.com/in/nguyen-mai-999799187/
