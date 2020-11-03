@@ -1,6 +1,6 @@
 ## Hi there, I'm Mai Nguyen👋
 
-- 🔭 I’m currently working on R studio
+- 🔭 I’m currently working on RStudio
 - 🌱 I’m currently learning everything 🤣
 - 🥅 Goals: Contribute more to Open Source projects and find my littel shelter :city_sunrise:
 - ⚡ Fun fact: I love to watch movies and play with cats 
